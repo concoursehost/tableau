@@ -1,0 +1,51 @@
+Row,Space,State,Abbreviation
+7,8,Alabama,AL
+1,1,Alaska,AK
+6,3,Arizona,AZ
+6,6,Arkansas,AR
+5,2,California,CA
+5,4,Colorado,CO
+4,11,Connecticut,CT
+5,11,Delaware,DE
+8,10,Florida,FL
+7,9,Georgia,GA
+8,1,Hawaii,HI
+3,3,Idaho,ID
+3,7,Illinois,IL
+4,7,Indiana,IN
+4,6,Iowa,IA
+6,5,Kansas,KS
+5,7,Kentucky,KY
+7,6,Louisiana,LA
+1,12,Maine,ME
+5,10,Maryland,MD
+3,12,Massachusetts,MA
+3,9,Michigan,MI
+3,6,Minnesota,MN
+7,7,Mississippi,MS
+5,6,Missouri,MO
+3,4,Montana,MT
+5,5,Nebraska,NE
+4,3,Nevada,NV
+2,12,New Hampshire,NH
+4,10,New Jersey,NJ
+6,4,New Mexico,NM
+3,10,New York,NY
+6,8,North Carolina,NC
+3,5,North Dakota,ND
+4,8,Ohio,OH
+7,5,Oklahoma,OK
+4,2,Oregon,OR
+4,9,Pennsylvania,PA
+3,11,Rhode Island,RI
+6,9,South Carolina,SC
+4,5,South Dakota,SD
+6,7,Tennessee,TN
+8,5,Texas,TX
+5,3,Utah,UT
+2,11,Vermont,VT
+5,9,Virginia,VA
+3,2,Washington,WA
+5,8,West Virginia,WV
+3,8,Wisconsin,WI
+4,4,Wyoming,WY
