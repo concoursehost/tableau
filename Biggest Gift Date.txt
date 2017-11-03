@@ -1,0 +1,1 @@
+{ INCLUDE [Records ID] : MIN(IF [Biggest Gift Amount] = [Gift Amount] THEN [Gift Date] END) }
